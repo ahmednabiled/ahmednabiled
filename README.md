@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a maths animation videos using manim
+- 🔭 I’m currently working on maths animation videos using manim
 - 🌱 I’m currently learning python and AI
 
 
